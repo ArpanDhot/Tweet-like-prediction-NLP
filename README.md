@@ -42,15 +42,6 @@ The following Python packages are used in this project:
 - Matplotlib/Seaborn: for data visualization.
 
 <a name="usage"></a>
-## Usage
-
-Clone the repository, install the required dependencies, and run the main Python script.
-
-```bash
-git clone https://github.com/user/repo.git
-pip install -r requirements.txt
-python main.py
-```
 
 <a name="contribution"></a>
 ## Contribution
